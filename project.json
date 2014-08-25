@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "Microsoft.Owin.Hosting": "2.1.0-*",
+        "Microsoft.Owin.Hosting": "2.1.0-*",
+"Microsoft.Owin.Host.HttpListener": "2.1.0-*" 
+    },
+}
